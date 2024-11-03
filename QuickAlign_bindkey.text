@@ -1,0 +1,10 @@
+# Bindkey commands for Alignment options:
+# Usually the key A is used for QuickAlign.
+
+# Write down (if it is not already there) under the "Bindkey" column:
+
+<Key>A
+
+# Write down this code under the "Command" column:
+leHiQuickAlign()
+
